@@ -6,6 +6,7 @@
 
 // Definition yaml_cpp_EXPORTS using to building YAML-CPP as dll/so library
 // (definition created by CMake or defined manually)
+#define YAML_CPP_STATIC_DEFINE //Added by Camoh
 
 #ifdef YAML_CPP_STATIC_DEFINE
 #  define YAML_CPP_API
