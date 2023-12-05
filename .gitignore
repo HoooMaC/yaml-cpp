@@ -1,3 +1,15 @@
 build/
 /tags
 /bazel-*
+
+#output dir
+bin
+bin-int
+
+#vs and vscode env
+.vs
+.vscode
+**.sln
+**.vcxproj
+**.vcxproj.user
+**.vcxproj.filters
